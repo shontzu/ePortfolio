@@ -1,6 +1,6 @@
 <template>
   <footer>
-      <img src="../assets/flower.png" height="50vh"/>
+      <img src="../static/flower.png" height="50vh"/>
   </footer>
 </template>
 

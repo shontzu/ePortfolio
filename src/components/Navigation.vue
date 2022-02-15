@@ -1,10 +1,10 @@
 <template>
   <div>
     <ul>
-      <a href="https://github.com/yuuchin"><img src="../assets/icon-gh.png" alt="github" /></a>
-      <a href="https://linkedin.com/in/shontzu"><img src="../assets/icon-ln.png" alt="linkedin" /></a>
-      <a href="https://www.instagram.com/shontzu/"><img src="../assets/icon-ig.png" alt="instagram" /></a>
-      <a href="mailto:shontzuforever@gmail.com"><img src="../assets/icon-gm.png" alt="gmail" /></a>
+      <a href="https://github.com/yuuchin"><img src="../static/icon-gh.png" alt="github" /></a>
+      <a href="https://linkedin.com/in/shontzu"><img src="../static/icon-ln.png" alt="linkedin" /></a>
+      <a href="https://www.instagram.com/shontzu/"><img src="../static/icon-ig.png" alt="instagram" /></a>
+      <a href="mailto:shontzuforever@gmail.com"><img src="../static/icon-gm.png" alt="gmail" /></a>
     </ul>
   </div>
 </template>

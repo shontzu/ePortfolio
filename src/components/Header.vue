@@ -1,17 +1,17 @@
 <template>
   <header>
-    <img id="banner" src="../assets/pink.jpg" alt="pink banner" />
+    <img id="banner" src="../static/pink.jpg" alt="pink banner" />
     <div>
       <picture data-aos="flip-right">
-        <source media="(max-width: 600px)" srcset="../assets/IMG_20220202_200424narrow.png" />
-        <source media="(min-width: 100px)" srcset="../assets/IMG_20220202_200424.png" />
-        <img id="portrait" src="../assets/IMG_20220202_200424.png" alt="Portrait of me"/>
+        <source media="(max-width: 600px)" srcset="../static/IMG_20220202_200424narrow.png" />
+        <source media="(min-width: 100px)" srcset="../static/IMG_20220202_200424.png" />
+        <img id="portrait" src="../static/IMG_20220202_200424.png" alt="Portrait of me"/>
       </picture>
 
       <picture data-aos="flip-left">
-        <source media="(max-width: 600px)" srcset="../assets/IMG_20220202_200436narrow.png" />
-        <source media="(min-width: 1000px)" srcset="../assets/IMG_20220202_200436.png" />
-        <img id="portrait" src="../assets/IMG_20220202_200436.png" alt="Portrait of me" />
+        <source media="(max-width: 600px)" srcset="../static/IMG_20220202_200436narrow.png" />
+        <source media="(min-width: 1000px)" srcset="../static/IMG_20220202_200436.png" />
+        <img id="portrait" src="../static/IMG_20220202_200436.png" alt="Portrait of me" />
       </picture>
     </div>
     <span>
