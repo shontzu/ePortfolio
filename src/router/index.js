@@ -6,6 +6,8 @@ import Home from '../Home.vue'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
+  base: '/your-github-repo/',
   routes: [
     {
       path: '/',
